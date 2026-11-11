@@ -5,7 +5,7 @@
   "Version": "0.3.0",
   "PluginUUID": "com.github.tinyplayerss.opendeck-ampgd6",
   "CodePathLin": "opendeck-ampgd6-linux",
-  "Icon": "icons/com.github.tinyplayerss.opendeck-ampgd6.png",
+  "Icon": "icons/com.github.tinyplayerss.opendeck-ampgd6",
   "Category": "Hardware",
   "OS": [
     { "Platform": "linux" }
