@@ -1,0 +1,15 @@
+{
+  "Name": "FIFINE Ampligame D6",
+  "Description": "Device support plugin for FIFINE Ampligame D6",
+  "Author": "tinyplayerss",
+  "Version": "0.3.0",
+  "PluginUUID": "com.github.tinyplayerss.opendeck-ampgd6",
+  "CodePathLin": "opendeck-ampgd6-linux",
+  "Icon": "assets/icon",
+  "Category": "Hardware",
+  "OS": [
+    { "Platform": "linux" }
+  ],
+  "Actions": [],
+  "DeviceNamespace": "d6"
+}
